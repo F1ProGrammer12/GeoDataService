@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoDataService.Host", "GeoDataService.Host\GeoDataService.Host.csproj", "{7665A991-1740-4B6A-8549-BD168060AE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoDataService.Domain", "GeoDataService.Domain\GeoDataService.Domain.csproj", "{3E5D374E-76C1-453B-AB33-B8A1190914FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoDataService.Logic", "GeoDataService.Logic\GeoDataService.Logic.csproj", "{AC4A0637-FAFE-4FF0-8C75-CC340C93A989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7665A991-1740-4B6A-8549-BD168060AE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7665A991-1740-4B6A-8549-BD168060AE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7665A991-1740-4B6A-8549-BD168060AE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7665A991-1740-4B6A-8549-BD168060AE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5D374E-76C1-453B-AB33-B8A1190914FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5D374E-76C1-453B-AB33-B8A1190914FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5D374E-76C1-453B-AB33-B8A1190914FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5D374E-76C1-453B-AB33-B8A1190914FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4A0637-FAFE-4FF0-8C75-CC340C93A989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4A0637-FAFE-4FF0-8C75-CC340C93A989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4A0637-FAFE-4FF0-8C75-CC340C93A989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4A0637-FAFE-4FF0-8C75-CC340C93A989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43BD5FCE-21E8-4B6A-970B-EC5BAC121E20}
+	EndGlobalSection
+EndGlobal
